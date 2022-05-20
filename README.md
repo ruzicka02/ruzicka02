@@ -3,8 +3,7 @@
 - 👋 Hi, I’m Šimon Růžička
 - 📚 I’m studying [FIT ČVUT/FIT CTU](https://fit.cvut.cz/)
 - 👀 I’m interested in various IT topics
-- 🌱 I’m currently learning ...
-- 💞️ I’m currently not looking to collaborate on anything :/
+- 🌱 I’m currently learning C/C++, Python, ...
 - 📫 [Send me an email](mailto:sima.ruzicka@gmail.com)
 
 ### Showcase of my work:
