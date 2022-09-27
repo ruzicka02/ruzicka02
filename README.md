@@ -8,6 +8,13 @@
 
 ### Showcase of my work:
 
+
+[Battle of Vostokhograd: The Card RPG](https://github.com/ruzicka02/BattleOfVostokhograd)
+- Card playing game made in C++
+- Controlled from your terminal environment using ncurses
+- play against AI or another player (locally)
+- video showcase [here](https://www.youtube.com/watch?v=jJ5Pid4QQRA)
+
 [KonfiguraTHOR](https://github.com/ruzicka02/konfigurathor)
 - PHP based website for making PC builds 
 - using SQL database technology
