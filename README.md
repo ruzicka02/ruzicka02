@@ -3,30 +3,8 @@
 - 👋 Hi, I’m Šimon Růžička
 - 📚 I’m studying Bachelor degree in Informatics @ [FIT ČVUT/CTU](https://fit.cvut.cz/)
 - 👀 I’m mostly interested in AI/ML. However, my study programme is very broad - I am interested in various other IT topics as well
-- 📫 [Send me an email](mailto:sima.ruzicka@gmail.com)
-
-### Skills
-
-Programming Languages:
-- Python (numpy, scipy, pandas, matplotlib, scikit-learn, PIL, pytest)
-- Julia
-- R
-- C/C++
-
-Technologies:
-- GNU/Linux
-- bash
-- LaTeX
-- Wolfram Mathematica
-- PostgreSQL
-- OpenSSL
-
-Dev tools:
-- Git
-- Gitlab
-- PyPI
-- Google Colab (Jupyter)
-- Doxygen
+- 📫 [Send me an email](mailto:simon.ruzicka@protonmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/%C5%A1imon-r%C5%AF%C5%BEi%C4%8Dka-6379711b2/)
 
 ### Showcase of my work:
 
@@ -46,6 +24,41 @@ Dev tools:
 - Controlled from your terminal environment using ncurses
 - play against AI or another player (locally)
 - video showcase [here](https://www.youtube.com/watch?v=jJ5Pid4QQRA)
+
+### Skills
+
+Programming Languages:
+- Python
+- Julia
+- R
+- C/C++
+
+Technologies:
+- GNU/Linux
+- bash
+- OpenAI API
+- LaTeX
+- Wolfram Mathematica
+- PostgreSQL
+- OpenSSL
+
+Python libraries:
+- numpy, scipy
+- pandas
+- matplotlib
+- scikit-learn
+- torch, keras
+- transformers
+- openai
+- PIL
+- pytest
+
+Dev tools:
+- Git
+- Gitlab
+- PyPI
+- Google Colab (Jupyter)
+- Doxygen
 
 <!---
 ruzicka02/ruzicka02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
