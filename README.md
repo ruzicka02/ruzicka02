@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Šimon Růžička
 - 📚 I’m studying Bachelor degree in Informatics @ [FIT ČVUT/CTU](https://fit.cvut.cz/)
-- 👀 I’m mostly interested in AI/ML. However, my study programme is very broad - I am interested in various other IT topics as well
+- 👀 I specialize in integrating generative AI into applications – in a way that actually saves people time.
 - 📫 [Send me an email](mailto:simon.ruzicka@protonmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/%C5%A1imon-r%C5%AF%C5%BEi%C4%8Dka-6379711b2/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ruzicka02/)
 
 ### Showcase of my work:
 
